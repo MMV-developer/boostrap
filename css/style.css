@@ -1,0 +1,29 @@
+/* :root {
+  --color1: #05b1b1;
+  --color2: #42339a;
+} */
+
+*,
+h1,
+h2,
+h3,
+p,
+body {
+  margin: 0;
+}
+
+.nav {
+  background: black;
+}
+
+.nav-link {
+  color: white;
+}
+
+.footer-bottom {
+  display: flex;
+  align-items: center;
+  height: 51px;
+}
+
+
